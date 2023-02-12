@@ -1,3 +1,1 @@
-# Tecnotitlan
-
-<img src="img/Technotitlan-Icon.png" alt="" width="450" />
+# Tecnotitlan <img src="img/Technotitlan-Icon.png" align="right" alt="" width="120" />
