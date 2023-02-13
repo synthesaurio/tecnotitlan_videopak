@@ -3,4 +3,6 @@
 This is a videopak for the teenage engenieering op-z videolab.
 
 
-<img src="docs/documentation.png" alt="" width="500" />
+For the documentation refer to:
+
+<img src="docs/documentation.png" alt="" align="center" width="500" />
