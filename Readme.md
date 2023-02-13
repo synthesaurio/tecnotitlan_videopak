@@ -1,1 +1,3 @@
-# Tecnotitlan <img src="img/Technotitlan-Icon.png" align="right" alt="" width="120" />
+# Tecnotitlan <img src="img/icon.png" align="right" alt="" width="120" />
+
+This is a videopak for the teenage engenieering op-z videolab.
